@@ -13,9 +13,6 @@
   <img width="50" height="50" src="https://svgur.com/i/rdt.svg">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiruxaspb">
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kiruxaspb&show_icons=true&theme=cobalt">
 </p>
 <p align="center">
