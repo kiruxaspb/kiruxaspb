@@ -13,11 +13,5 @@
   <img width="50" height="50" src="https://svgur.com/i/rdt.svg">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kiruxaspb&show_icons=true&theme=cobalt">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiruxaspb&layout=compact&hide_progress=false&theme=cobalt">
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiruxaspb">
 </p>
